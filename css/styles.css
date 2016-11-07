@@ -1,0 +1,25 @@
+
+#container {
+	text-align: center;
+	/*padding-left: auto;*/
+    /*padding-right: auto;*/
+}
+.lead {
+	font-size: 21px;
+}
+h1 {
+    font-size: 4em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+#banner {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.page-header {
+	border-bottom: none;
+}
+
